@@ -8,3 +8,6 @@ try:
         print(translation)
 except FileNotFoundError:
     print('no such file')
+
+print('hi')
+print('testing')
